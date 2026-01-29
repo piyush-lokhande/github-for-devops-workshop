@@ -8,7 +8,6 @@ git commit -m "added testing files"
 clear
 git status
 rm testing.py
-clear
 git status
 git restore testing.py
 clear
